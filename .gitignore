@@ -1,3 +1,8 @@
+#aws
+.aws-sam
+samconfig.toml
+.idea
+
 # Compiled class file
 *.class
 
